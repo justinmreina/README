@@ -10,7 +10,7 @@ You can also learn more about my revision method here -
 
 ## Code Organizations
 
-(see git_orgs link above for access) 
+(see _git_orgs_ link above for access) 
 
 - Demos
 
